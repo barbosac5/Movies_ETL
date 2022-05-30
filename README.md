@@ -49,5 +49,9 @@ For the final Deliverable, I used the ETL process and PostgreSQL to add the movi
 
 # Resources
 -pgAdmin version 6.8
-
 -postgress version 11.16
+Anaconda version 2.1.1
+Jupyter Notebook version 6.4.5
+Python version 3.9.7
+Pandas version 1.3.4
+
