@@ -9,6 +9,7 @@ For Deliverable 1, i had to write a function that reads in the three data files 
 
 ### Deliverable 1 Output
 #### wiki_movies_df (Deliverable 1)
+![wiki_movies_df](./Resources/wiki_movies_df.png)
 
 #### kaggle_metadata
 
