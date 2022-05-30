@@ -15,7 +15,7 @@ For Deliverable 1, i had to write a function that reads in the three data files 
 ![kaggle_metadata_df](./Resources/kaggle_metadata_df.png)
 
 #### ratings
-![ratings_df](./Resources/ratingsi_df.png)
+![ratings_df](./Resources/ratings_df.png)
 
 ## Deliverable 2: Extract and Transform the Wikipedia Data
 In Deliverable 2, I extracted and trasnfored the Wikipedia data so I could merge it with the Kaggle metadata. I also used a try-except block to catch all errors.
@@ -48,3 +48,6 @@ For the final Deliverable, I used the ETL process and PostgreSQL to add the movi
 ![Ratings Count](./Resources/ratings_count.png)
 
 # Resources
+-pgAdmin version 6.8
+
+-postgress version 11.16
